@@ -1,0 +1,26 @@
+﻿[Test]
+Programm=SimpleTest
+Version=0.1
+TestName=Еще один тестгопагш
+Author=Автор тестапагопа
+MessageOnComplete=Тест завершен!пго
+AllowFinish=1
+ShowResult=1
+DisableOpenTest=0
+ExitOnComplete=0
+LastQ=1
+
+[Q0]
+QLabel=Еще один вопрос
+LastA=2
+A0=*выпывп
+A1=варвар
+A2=варвар
+
+[Q1]
+QLabel=Еще один вопрос
+LastA=2
+A0=ыпныцпы
+A1=*варвар
+A2=вар
+
